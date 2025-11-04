@@ -1,0 +1,5 @@
+{
+  "name": "AI App Factory",
+  "description": "A simple website where you can input your app ideas and a repository name. The application simulates using Gemini to build the app, upload it to GitHub, and notify you upon completion.",
+  "requestFramePermissions": []
+}
